@@ -208,7 +208,7 @@ oooooo   oooo                        o8o
     "age":16,
     "location":"France",
     "skills":["CyberSecurity","Programming","Cryptology","Reverse Engineering"],
-    "langages":["JavaScript","Python","HTML5","CSS3","Shell","Bash"],
+    "langages":["JavaScript","Python","HTML5","CSS3","Shell","Bash","Ruby"],
     "framwork":["NodeJs","TypeScript","VueJs"],
     "tools":["MongoDB","MySQL","ElectronJS","VS Code"],
     "os":["Linux","Windows"],
