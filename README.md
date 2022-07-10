@@ -1,5 +1,6 @@
 # Y-v-a-i-n
-![image](https://cdn.discordapp.com/attachments/995722389742698519/995737163465502790/external-content.duckduckgo.com.gif)
+---
+<p align="center"><img height="380"src="https://cdn.discordapp.com/attachments/995722389742698519/995812559649243218/artwork-1657145306814-5503.jpg"></p>
 <p align="center"> 
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp; |
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>&nbsp; |
@@ -38,7 +39,7 @@
 🔭・my name is Yvain I am 16 years old I am a student, I program in my free time</br></br>
 📡・I'm starting to learn Golang</br></br>
 🛰️・Later I would like to work in defensive cybersecurity</br></br>
-🚀・How to reach me: <img src="https://img.shields.io/badge/yvain@riseup.net-blue?style=for-the-badge&logo=riseup&logoColor=white">
+🚀・How to reach me: <img src="https://img.shields.io/badge/yvain@riseup.net-blue?style=for-the-badge&logo=riseup&logoColor=white"></br></br>
 </p>
 <h1 align="center">📈 Stats :</h1>
 
