@@ -33,8 +33,6 @@
 }
 ```
 <h1 align="center">💻 About Me :</h1>
-
----
 <p align="left"style="font-size:20px">
 🔭・my name is Yvain I am 16 years old I am a student, I program in my free time</br></br>
 📡・I'm starting to learn Golang</br></br>
@@ -42,8 +40,6 @@
 🚀・How to reach me: <img src="https://img.shields.io/badge/yvain@riseup.net-blue?style=for-the-badge&logo=riseup&logoColor=white"></br></br>
 </p>
 <h1 align="center">📈 Stats :</h1>
-
----
 <div align="center">
     <img src="https://metrics.lecoq.io/Y-v-a-i-n"><br /><br/>
 </div>
